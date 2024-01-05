@@ -111,7 +111,7 @@ Check README file in `ui.tests` module for more details.
 
 The frontend module is made available using an [AEM ClientLib](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/clientlibs.html). When executing the NPM build script, the app is built and the [`aem-clientlib-generator`](https://github.com/wcm-io-frontend/aem-clientlib-generator) package takes the resulting build output and transforms it into such a ClientLib.
 
-A ClientLib will consist of the following files and directories:
+A ClientLib will consist of the following files and directories:Hiiiii
 
 - `css/`: CSS files which can be requested in the HTML
 - `css.txt` (tells AEM the order and names of files in `css/` so they can be merged)
